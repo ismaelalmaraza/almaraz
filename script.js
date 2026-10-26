@@ -84,22 +84,22 @@ document.addEventListener('DOMContentLoaded', () => {
     "tipo": "cancion",
     "titulo": "Cartas que nunca envié",
     "imagen": "assets/unreleased.webp",
-    "audio": "assets/cartas-que-nunca-envie.mp3",
+    "audio": "assets/canciones/Cartas sin enviar.mp3",
     "contenido": "Una canción para el amor que nunca llegó a convertirse en una vida compartida. Para esa persona con quien imaginamos envejecer y a quien, incluso después de otros nombres y otras historias, habríamos vuelto a elegir.\n\nHay cartas que nunca se envían porque, en el fondo, sabemos que no buscamos una respuesta. Solo necesitamos que las palabras encuentren un lugar donde quedarse."
   },
   {
     "tipo": "cancion",
-    "titulo": "Cuéntame cómo es el cielo",
+    "titulo": "Nadie se dió cuenta",
     "imagen": "assets/unreleased.webp",
-    "audio": "assets/cuentame-como-es-el-cielo.mp3",
+    "audio": "assets/canciones/Nadie se dio cuenta.mp3",
     "contenido": "Una conversación imposible con alguien que ya no está. Una canción nacida de las preguntas que deja el duelo: si allá también hace frío, si existen los domingos, si diciembre llega de la misma manera y si quienes se marcharon todavía pueden escucharnos.\n\nHay ausencias que no necesitan respuestas. A veces solo necesitan una guitarra y unos minutos para volver a sentirse cerca."
   },
   {
     "tipo": "cancion",
-    "titulo": "Camino al cielo",
+    "titulo": "Un poquito menos",
     "imagen": "assets/unreleased.webp",
-    "audio": "assets/camino-al-cielo.mp3",
-    "contenido": "Una canción sobre la fragilidad de la existencia, los días difíciles y el deseo de seguir caminando aun cuando el cuerpo y el ánimo parecen agotarse.\n\nNo habla solamente de la muerte, sino también de la vida que todavía queda por escribir, de las personas que nos sostienen y de esa esperanza pequeña que a veces basta para atravesar otra noche."
+    "audio": "assets/canciones/Un poquito menos.mp3",
+    "contenido": "Una canción sobre el dolor silencioso de la depresión y las pequeñas señales que dejamos esperando que alguien las descubra. Como migajas en el camino, cada silencio, cada sonrisa fingida y cada petición disfrazada de broma es una forma de decir «necesito ayuda» sin atrevernos a pronunciarlo. Una historia sobre el deseo desesperado de ser encontrados antes de perdernos por completo."
   },
   {
     "tipo": "rareza",
